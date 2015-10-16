@@ -1,7 +1,5 @@
 # Hello World!!
 
-Hi!
-
 I'm Tristen, I'm 19 and I live in Ottawa.
 
 # About Me
